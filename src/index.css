@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "ProtoMono";   /*Can be any text*/
+  src: local("ProtoMono-Regular"),
+    url("./assets/fonts/ProtoMono-Regular.ttf") format("truetype");
+}
+*{
+  font-family: "ProtoMono";
+  padding: 0;
+  margin: 0;
+  /* background: rgb(255, 247, 211); */
+}
