@@ -2,8 +2,8 @@ import axios from "axios";
 import "./App.scss";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React from "react";
-import Home from "./home";
-import Screen2 from "./screencookie";
+import Home from "./home.js";
+import Screen2 from "./screencookie.js";
 
 function App() {
 
